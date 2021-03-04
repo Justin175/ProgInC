@@ -1,8 +1,0 @@
-﻿  DateiAnalyse.c
-C:\Users\Justin\source\repos\Prog in C\Prog in C\DateiAnalyse.c(30,21): warning C4013: "_getche" undefiniert; Annahme: extern mit Rückgabetyp int
-  Code wird generiert.
-  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Codegenerierung ist abgeschlossen.
-  Prog in C.vcxproj -> C:\Users\Justin\source\repos\Prog in C\Release\Prog in C.exe
