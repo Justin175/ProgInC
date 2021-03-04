@@ -1,0 +1,240 @@
+Status	Anrede	Nachname	Vorname	Eingangsbescheid                        	Zusage-Ausgang	Zusage-Eingang	Absage	Sonstiges	kaufm. - technische Praktikanten	Noch zu erledigen	Beginn	Ende 	Str. / Hausnummer	PLZ	Ort	Tel	Email	Anrede Betreuer	Betreuer	Abt. Betreuer	Raum Nr.	Tel. Betreuer											
+																																	
+Eingangsbescheid	Herr	Mustermann	Gerd						T	abgeschlossen	07.01.2019	22.01.2019	Hauptstraße 32	38126	Braunschweig	0531/222548	Mustermann.Gerd@t-online.de																
+Absage	Herr	Kieltsch	Jona Paul						T	abgeschlossen	04.02.2019	22.02.2019	Hans-Scholkemeier-Weg 8	38126	Braunschweig	0531/2886447	Jona.paul04@gmail.com																Eingangsbescheid
+Eingangsbescheid	Frau	Schrader	Jasmin						T	abgeschlossen	05.11.2018	23.11.2018	Leibnizstraße 6	38350	Helmstedt	17643558782	jasminschrader37@gmail.com																Zusage
+Absage	Herr	Krawczyk	Niklas						T	abgeschlossen	26.11.2018	15.12.2018	Bisdorf 20	38154	Bisdorf	53652563	kraniki@t-online.de																Absage
+Absage	Herr	Danaci	Emir						T	abgeschlossen	82.018	72.019	Isoldestraße 19a	38106	Braunschweig	1633677387	Emir.danaci@web.de																Unterlagen unvollständing
+Eingangsbescheid	Herr	Karnowski	Noel						T	abgeschlossen			Magdeburgstraße 19	38124	Braunschweig	5312844814	Noel-Karnowski@hotmail.com																Selbstabsage
+Absage	Herr	Jendoubi	Khaled						T	abgeschlossen	18.03.2019	05.04.2019	Ernst-Moritz.Arndt- Str.5	38162	Cremlingen	5306932777	Khaled.jendoubi@web.de																Praktikumsbstätigung
+Absage	Frau	Lodyga	Sandy						T	abgeschlossen	04.02.2019	23.02.2019	Alte Leipziger Straße15	38124	Braunschweig	15758287961	Sandy.lodyga@igs-heidberg.de																
+Eingangsbescheid	Herr	Stein	Alexander						T	abgeschlossen	18.03.2019	06.04.2019	Börwiese 4	38126	Braunschweig	53063701	familiestein@htp-tel.de																
+Zusage	Herr	Witt	Martin						T	abgeschlossen	04.02.2019	22.022.019	Bechtsbüttler Weg 12	38110	Braunschweig	15731788238	Martin.witt2003@gmail.com																
+Zusage	Herr	Schweizer	Jonathan						T	abgeschlossen	07.01.2019	25.01.2019	Nelkenweg 35	38302	Wolfenbüttel			Herr 	Gerhard Kowalik	MO MM RAD PL D		0531/226-3118											
+Zusage	Herr	Meinertz	Jannis						T	abgeschlossen	15.10.2018	02.11.2018	Gehegewiese 4a	38108	Braunschweig			Frau	Elke Fricke	MO MM RAD OP MF-A		0531226-6393											
+Zusage	Herr	Dalibor	Sebastian						T	abgeschlossen	17.05.2019		An der Molkerei 11	31241	Ilsede			Herr 	Lempke	MO MM RAD PIC 4 10		0531/226-4261											
+Zusage	Herr	 Brunke	Lance Leon						T	abgeschlossen	07.01.2019	25.01.2019	Meißenstraße 47	38124	Braunschweig			Herr 	Alexander Sense	HR LE SPE BO NTH BWG		1731651112											
+Zusage	Herr	Wermuth	Pascal						T	abgeschlossen	02.07.2018	13.07.2018	 Am Quählenberge 14	38300	Wolfenbüttel			Frau 	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Zusage	Herr	Al- Khwlani	Amr						T	abgeschlossen	26.11.2018	15.12.2018	Elstertorstraße 9	31226	Peine			Herr 	 Jörg Buchheister	HR LE SPE BO NTH BWG		1721990680											
+Zusage	Herr	Ahlers	Justus						T	abgeschlossen	15.10.2018	02.11.2018	Am Flughafen 8d	38110	Braunschweig			Frau	Elke Fricke	MO MM RAD OP MF-A		0531/226393											
+Zusage	Herr	Ahrens	Tebbe						T	abgeschlossen	15.10.2018	03.11.2018	Fasanenweg 52	38342	Kissenbrück			Herr 	Axel Zötzsche	MO MM MT MS1-COC TC		0531/226-4230											
+Absage	Herr	Dill	Marco						T	abgeschlossen	04.02.2019	22.02.2019	Weißdornring 4	38268	Lengede	5344959034	marcodill27@gmail.com																
+Zusage	Frau	Bruns	Katharina Elisabeth 						K	abgeschlossen	07.01.2019	25.01.2019	Slzdahlumer Str. 317b	38126	Braunschweig			Frau	Sandra Dinger	MO MM MT BA PE1 und PE2		0173/1822364 											
+Zusage	Frau 	Dinger	Laura						K	abgeschlossen	07.01.2019	25.01.2019	Heinz-Waaske-Weg 36	38126	Braunschweig	0174/9674916		Frau 	Viola Dinger	MO MM MT PE 2 BA		0173/ 5183970											
+Zusage	Herr	Fröhlich	Timon						T	abgeschlossen	13.10.2018	02.11.2018	Innungswall 81	38518	Gifhorn	05371/ 6365208	business.timonfroehlich@gmail.com	Herr 	Tobias Klingenberg	MO CS CRM BA	9250	0172/ 1710375											
+Zusage	Frau 	Feilke	Elisabeth						T	abgeschlossen	04.02.2019	22.02.2019	Helene-Engelbrecht-Str. 67	38124	Braunschweig	0171-6227603	elisabeth.feilke@web.de	Frau	Kristin Klaehr	MO MM RAD OP BA	9624	0531/226-6118											
+Zusage	Frau	Klubach	Paula Charlotte						T	abgeschlossen	07.01.2019	25.01.2018	Fischreiherweg 19	38259	Salzgitter	0176-95555758	paula.klubach@web.de	Herr 	Reinhard Miehe	MO MM RAD OP LOCS	13202	0172/5138730											
+Zusage	Herr	Ackermann	Christoph Jonas						T	abgeschlossen	07.01.2019	25.01.2019	Bunzlauerstr. 3	31226	Peine	0177/9690778		Herr 	Eugen Eisler	MO MM R&D OCS CG 1	37644	0152/03428450											
+Zusage	Frau	Konzack	Lea-Sophie						K	abgeschlossen	18.03.2019	05.04.2019	An der Alten Waage 5	38173	Lucklum	5305912579	Lea.Konzack@netzup.de	Frau 	Julia Tondorf	MO MM ML S BA	37444	15312262478											
+Zusage	Herr	Brasche	Ben						T	abgeschlossen	15.10.2018	03.11.2018	Asseweg 8	38319	Remlingen	05336/ 8443		Frau 	Elke Fricke	MO MM RAD OP MF-A		0531/226393											
+Zusage	Herr	Eschemann	Noah Nikolai						T	abgeschlossen	18.03.2019	05.04.2019	Helmstedter Strasse 45a	38162	Klein Schöppenstedt	1623923264	nikolai.eschemann@gmx.de	Frau 	Elke Fricke	MO MM RAD OP MF-A		0531/226393											
+Eingangsbescheid	Herr	Palm	Nico						T	abgeschlossen	04.02.2019	01.03.2019	Westerntorstraße 20	38304	Wolfenbüttel	53418861846	n.palm2001@hotmail.com																
+Absage	Frau	Oehne	Jacqueline						T	abgeschlossen	04.02.2019	01.03.2019	Heideweg 17b	38120	Braunschweig	53112196916																	
+Absage	Herr	Henne	Florian						T	abgeschlossen	24.09.2018	19.10.2018	Ackerstraße 55	38126	Braunschweig	5312808656	henne.flo62@gmail.com																
+Absage	Herr	Cicin-Sain	Andro						T	abgeschlossen	16.07.2019	14.09.2019	Ungerstraße 5	38302	Wolfenbüttel	53319451104	acs05331@gmail.com																
+Unterlagen unvollständing	Herr	Köchy	Marvin						T	abgeschlossen	04.02.2019	01.03.2019	Wanneweg23	38162	Cremlingen	5306931878	elke.koechy@web.de																
+Eingangsbescheid	Herr	Münch	Daniel				14.01.2019		T	abgeschlossen	04.02.2019	01.03.2019	Waggumer Weg 6	38108	Braunschweig	53170125788	daniel.muench@live.com	Herr 	Axel Zötzsche	MO MM MT MS1-COC TC		0531/226-4230											
+Absage	Herr	Führer	Collin						T	abgeschlossen	04.02.2019	22.02.2019	Rodelandweg 20	38108	Braunschweig	53138725595	collin.fuehrer@igsquerum.de																
+Unterlagen unvollständing	Herr	Rosenau	Vincent						T	abgeschlossen	24.09.2018	19.10.2018	Meierhof 8	31185	Söhlde	15754113342	vincent..rosenau@web.de																
+Eingangsbescheid	Frau	Ayas	Dilay						K	abgeschlossen	07.01.2019	25.01.2019	Meerstieg 10	38122	Braunschweig	17536484223	dilayayas@gmail.com	Frau	Britta Haller	MO MM ML PETC BA	37412	01531226-5069											
+Absage	Herr	Murraß	Mike						T	abgeschlossen	05.11.2018	23.11.2018	Kohlenweg 1	38350	Helmstedt	15234741855	mikehurras@gmail.com																
+Eingangsbescheid	Frau	Schoeppe	Mathilde						T	abgeschlossen	04.02.2019	23.02.2019	Trift 6	38159	Bettmar/Vechelde	5302903807	meuschoeppe@gmail.com																
+Unterlagen unvollständing	Herr	Weber	Jan 						T	abgeschlossen	29.04.2019	18.05.2019	Alte Mühle 206	38350	Helmstdt	535131595	jan-weber@freemail.de																
+	Herr	Genrich	Maxim						T	abgeschlossen	04.02.2019	15.02.2019	Gerastraße 4	38124	Braunschweig	17647878852	maxim.genrich@web.de																
+Selbstabsage	Herr	Rühe	Thorben				11.01.2019		K	abgeschlossen	14.01.2019	26.01.2019	Pfarrhofstraße 13	38315	Hornburg	1727295540	thorben.ruehe2011@gmail.com	Frau	Sandra St. Pierre	MO MM ML PEWS BA	37603	15207425069											
+Zusage	Herr	Dalci	Emirhan						T	abgeschlossen	14.01.2019	25.01.2019	Königsbergerstr. 12	31547	Rehburg-Loccum	0152/ 3355 1546	emirhan.dalci@gmail.com	Frau 	Ulrike Panos	MO MM RAD PL I		0172/ 6687076											
+Absage	Herr	Kühling	Jorden						T	abgeschlossen	29.10.2018	23.11.2018	Wilhelm-Brandes-Strasse 26	38304	Wolfenbüttel	15156000592	jorden1895@web.de																
+Zusage	Herr	Beichler	Adrian						T	abgeschlossen	04.02.2019	22.02.2019	Am Hainberg 5	38690	Immenrode	0176/ 95805714	adrian.beichler@wvsharzburg.net	Herr 	Alexnder Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Herr	Fleischhauer	Ben						T	abgeschlossen	07.01.2019	25.01.2019	Birkenweg 5	38275	Haverlah	15117269855	ben-fleischhauer@t-online.de																
+Unterlagen unvollständing	Herr	Kiesel	Collin						T	abgeschlossen	18.03.2019	05.04.2019	Thiestraße 34	38226	Salzgitter	15208554599	collink.business@gmail.com	Herr 	Frank Thiele	MO MM ML PEWS LT	37412	1721403995											
+Zusage	Herr	Milius	Leonard Alexander						T	abgeschlossen	04.02.2019	23.02.2019	Kleiststraße 22	38124	Braunschweig	0151/ 501 58 394	milius@igs-heidberg.de	Herr 	Marc Burkhardt	MO MM R&D SYS	75409	0173/ 6379730											
+Eingangsbescheid	Herr	 Praet	Luca						T	abgeschlossen	04.02.2019	01.03.2019	Eichhof 4a	38159	Vechelde	15233816986	lucamarvin.praet@gmail.com																
+Eingangsbescheid	Herr	Hennicke	Leif				28.11.2018		T	abgeschlossen	03.12.2018	14.12.2018	Grüner Ring 21a	38108	Braunschweig	17654448408	leif.hennicke@gmx.de																
+Zusage	Herr	Akpinar	Abdullah						T	abgeschlossen	22.10.2018	02.11.2018	Berliner Straße 100	38104	Braunschweig	Nicht angegeben	a-akpinar@gmx.de	Herr 	Nico Steinert	MO HR GER PE NEA	37344	15312262153											
+Absage	Herr	Yalcin	Berat						T	abgeschlossen	25.02.2019	16.03.2019	Rosenmüller Straße 12	38304	Wolfenbüttel	15734858187	beratyalcin@icloud.com																
+Absage	Herr	Höltge	David						T	abgeschlossen	25.02.2019	16.03.2019	Alter Holzweg 1	38304	Wolfenbüttel	17661885169	dave11072003.dkl@gmail.com																
+Absage	Herr	Ruckert	Brian						T	abgeschlossen	04.02.2019	22.02.2019	Neuer Weg 4	38100	Braunschweig	15773937156	brianruckert70@gmail.com																
+Eingangsbescheid	Frau	Akbel	Beyza						T	abgeschlossen	20.05.2019	29.05.2019	Hermann-von-Vechelde Straße 3	38126	Braunschweig	171626802	b.akbel@icloud.com																
+Eingangsbescheid	Herr	Kajolli	Fisnik						T	abgeschlossen	07.01.2019	18.01.2019	Suthwiesenstraße 8	38226	Salzgitter	1749528610	fisnik.kajolli@gmx.de																
+Eingangsbescheid	Herr	Bartles	Paul 				10.12.2018		T 	abgeschlossen	14.01.2019	26.01.2019	Am Mühlengraben  16 a	38173	Sickte	5305912684	bartels.paul@t-online.de																
+Zusage	Herr	Straube	Benedikt		13.11.2018				K	abgeschlossen	18.03.2019	29.03.2019	Am Heckenkamp 9	38302	Wolfenbüttel	17647869282	bene.straube@icloud.com	Herr 	Florian Prueser	MO MM ML BEL	28261	0162 - 130 7972											
+Eingangsbescheid	Herr	Arnold	Loris		14.11.2019				T	abgeschlossen	07.01.2019	26.01.2019	Am Walde 13	38275	Steinlah	5341331727	loris002@t-online.de	Frau	Elke Fricke	MO MM RAD OP MF-A		0531/226393											
+Eingangsbescheid	Herr	Sunman	Emre						T	abgeschlossen	07.01.2019	26.01.2019	Mittelweg 42	38106	Braunschweig	17660447977	emre.sunman@outlook.de	Herr 	Michael Wilke	MO HR GER PE NEA		15229424565											
+Selbstabsage	Herr	Thormmeier	Georg				21.11.2018		T	abgeschlossen	04.02.2019	23.02.2019	Jasperallee 56	38102	Braunschweig	15756855131	www.georgthormeier@gmail.com																
+Eingangsbescheid	Herr	Ehrhoff	Jonas						T	abgeschlossen	18.03.2019	05.04.2019	Sattlerweg 18 a	38173	Sickte	53053182	jonasehr3k@gmail.com																
+Zusage	Herr	Fritzsche	Lennart						K	abgeschlossen	04.02.2019	22.02.2019	Forstweg 11	38302	Wolfenbüttel	17666211678	lennif2202@gmail.com	Frau	Silke Adam	MO MM RAD PL D	63309	0531226-2456											
+Absage	Herr	Tahiraj	Eron						T	abgeschlossen			Ensdorferstraße 50	38116	Braunschweig	5302805592	thairaj@outlook.de																
+Selbstabsage	Herr	Schulz	Dominik					05.11.2018	T	abgeschlossen	04.02.2019	23.02.2019	Wilhelm-klauditz-Straße 19	38159	Vechelde	5302805592	dominikschulz@gmx.net																
+Eingangsbescheid	Herr	Möbus	Daniel						T	abgeschlossen			Berliner Straße 9	38300	Braunschweig	5331945528	daniel-moebus@outlook.de																
+Absage	Herr	Rüscher	Fynn						T	abgeschlossen			An der Steinkuhle 17	38165	Lehre	5305910555	fynn.ruescher10@gmail.com																
+Unterlagen unvollständing	Herr	Widera	Valentin				29.10.2018		T	abgeschlossen	25.02.2019	16.03.2019	Im Brachfeldn 27	38120	Braunschweig	531303144	vanti-1@outlook.de																
+Eingangsbescheid	Herr	Schmidt	Felix						T	abgeschlossen	07.01.2019	25.01.2019	Broitzemer Steinberg 22	38122	Braunschweig	5312873920	jejumich@gmx.de																
+Absage	Herr	Louay	Safi						T	abgeschlossen	07.01.2019	25.01.2019	Wendenstrasse	38100	Braunschweig	17641032778	safilouay@gmail.com																
+Absage	Fau	Abali	Fatmagül						T	abgeschlossen	04.02.2019	23.02.2019	Bleichestraße 14	38667	Bad Harzburg	15205167483	fatmagulabali@gmail.com																
+Absage	Herr	Martens	Richard						T	abgeschlossen	04.02.2019	01.03.2019	Helmweg 11	38120	Braunschweig	15770422074																	
+Eingangsbescheid	Herr	Wolff	Moritz						T	abgeschlossen	11.06.2019	21.06.2019	Robert-schuman-straße 20	38444	Wolfsburg	1755369755																	
+Selbstabsage	Herr	Ilic	Maksimilian 				31.01.2019		T	abgeschlossen	04.02.2019	25.02.2019	Hugo-Luther-Straße 40	38118	Braunschweig	15754003925	maksi.ilic@gmail.com	Frau	Elke Fricke	MO MM RAD OP MF-A		531226393											
+Eingangsbescheid	Herr	Tezel	Taylan	29.10.2019					T	abgeschlossen	25.02.2019	15.03.2019	Pfarrwiese 33	38104	Braunschweig	15229961807	taylaan.tezel@icloud.com																
+Absage	Herr	Nowak	Tim				26.11.2018		T	abgeschlossen	07.01.2019	25.01.2019	In den Springgäckern 6	38126	Braunschweig	17656583645	t.nowak@nowak-bs.de																
+Absage	Herr	Scheja	Devin						T	abgeschlossen	04.02.2019	23.02.2019	Hans-Scholkemeier-Weg 43	38126	Braunschweig	17676718280	devin.scheja@gmx.de																
+Absage	Frau	Krysiak	Wiktoria						T	abgeschlossen	04.02.2019	01.03.2019	Beekswiese 35	38116	Braunschweig	1729487598	krysiak.wiktoria@gmx.de																
+Absage	Frau	Vorlob	Desiree				25.10.2018		T	abgeschlossen	07.01.2019	26.01.2019	Neue Wiese 45	38315	Schladen	1711767926	desireevorlob@gmx.de																
+Eingangsbescheid	Herr	Beckner	Ruven	25.10.2018					T	abgeschlossen	04.02.2019	22.02.2019	Helene-Engelbrecht-Str.117	38124	Braunschweig	15750740780	ruven.beckner@gmail.com																
+Zusage	Herr	Keune	Julian	25.10.2018					T	abgeschlossen	07.01.2019	25.01.2019	Zorgestraße 3	38124	Braunschweig	53412449877		Herr 	Jörg Buchheister	HR LE SPE BO NTH BWG		1721990680											
+Zusage	Herr	Kuhlemann	Jonas						T	abgeschlossen	04.02.2019	01.03.2019	Wilhelm-Raabe-Straße 3	38302	Wolfenbüttel	15164627248	jonas.kuhlemann@hotmail.de	Herr 	Uwe Ketzler	MO MM R&D BA	37818	1727448216											
+Absage	Herr	Poterowicz	Marcel						T	abgeschlossen	04.02.2019	23.02.2019	Stralsundstraße 18	38124	Braunschweig	5313171174																	
+Zusage	Frau	Guaca	Vergenmarie	01.11.2018					T	abgeschlossen	07.01.2019	25.01.2019	Lohmannstraße 7	31785	Hameln	15776624226	vergenmarie.guaca@gmail.com	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Herr	Stemper 	Ben	01.11.2018					T	abgeschlossen	25.02.2019	08.03.2019	Rodekamp 54	38176	Wendeburg	5303923992	benstemper03@gmail.com																
+Absage	Herr	Kahsay	Kiki				01.11.2018		T	abgeschlossen	04..02.2019	01.03.2019	Scharrnstraße 2	38100	Braunschweig	15755580439	matthaeus21@gmx.de	Herr 	Matthias Brandt	MO MM RAD PIC 2 3		01531 226-3790											
+Zusage	Herr	Seifert	Tim						T	abgeschlossen	04.02.2019	22.02.2019	Buchenweg 7	38159	Vechelde	530270129	tim.seifert@isg-vechelde.de	Herr 	Axel Zötzsche	MO MM MT MS1-COC TC		0531/226-4230											
+Absage	Herr	Lewandowski	Luc Skye		01.11.2019		07.11.2018		T	abgeschlossen	04.02.2019	22.02.2019	Steinbrecherstr. 13	38106	Braunschweig	53138080313	luc.lewandowski@igsff-bs.de																
+Eingangsbescheid	Herr	Bömke	Laurenz						T	abgeschlossen	04.02.2019	22.02.2019	Thiederhall 22	38239	Salzgitter	1705071817	shoklor@outlook.de	Herr 	Maik Voß	MO MM RAD OP BA		0172 4179128											
+Zusage	Herr	Toygan	Deniz		14.11.2019				T	abgeschlossen	14.01.2019	25.01.2019	Thieder Weg 14	38304	Wolfenbüttel	15736993066	deniz.toygan@igsw.versus-wf.de	Herr 	Marc Burkhardt	MO MM R&D SYS	75409	1736379730											
+Absage	Herr	Rosnerski 	Nico						T	abgeschlossen	18.03.2019	05.04.2019	Alte Dorfstraße 8	38527	Meine	15901206660	Nico.Rosnerski@gmx.de																
+Praktikumsbstätigung	Herr	Ehlers	Finn					14.11.2019	T	abgeschlossen	15.10.2019	26.10.2019	Rährweg 23	29399	Wahrenholz	5835967234	finndows@outlook.de																
+Praktikumsbstätigung	Herr	Lemke	Laurenz					14.11.2019	T	abgeschlossen	15.10.2018	02.11.2018	Im Landgraben 20	38162	Destedt	5306912399	laurenz.lemke@gmail.com																
+Zusage	Herr	Faustmann	Luca		26.11.2018				T	abgeschlossen	18.03.2019	05.04.2019	Modersohn-Becker-Ring 92	38159	Vechelde	5302902767	lucafauou@gmail.com	Frau	Elke Fricke	MO MM RAD OP MF-A		0531/226393											
+Zusage	Herr	Klimpke	Luis		26.11.2018				T	abgeschlossen	07.01.2019	26.11.2019	Ostlandsiedlung 24	38304	Wolfenbüttel	5331905414	luis.kl@hotmail.de	Frau	Elke Fricke	MO MM RAD OP MF-A		0531/226393											
+Zusage	Frau	von Hagen	Annika		26.11.2018				T	abgeschlossen	04.02.2019	22.02.2019	Buchenkamp 2	38126	Braunschweig	15755137213	annika@niggenhagen.de	Frau	Anette von Hagen	MO MM MT MS1-COC ATC2	39221	1622346501											
+Eingangsbescheid	Herr	Briesen	Paul					17.01.2019	T	abgeschlossen	06.05.2019	17.05.2019	Naumburger Straße 48	76139	Karlsruhe	7213848577	paul@die-briesens.de	Herr 	Axel Zötzsche	MO MM MT MS1.COC TC		0531/226-4230											
+Unterlagen unvollständing	Herr	Onigkeit	Felix						T	abgeschlossen	04.02.2019	15.02.2019	Banslebenring 24	38170	Bansleben	1756521488	f.onigkeit@web.de																
+Zusage	Frau	Schäfer	Margarethe		12.12.2018				T	abgeschlossen	07.01.2019	25.01.2019	Böcklerstraße 227	38102	Braunschweig	53170210741	margarethe.schaefer@kleineburg.de	Frau	Ellen Hoppe	MO MM ML BEL SYS	28261	1732325575											
+Eingangsbescheid	Frau	Knackstedt	Anna Patricia						T	abgeschlossen	07.01.2019	25.01.2019	Bruchtorwall 14	38100	Braunschweig	15128883503	Anna.knackstedt@raabeschule.net																
+Selbstabsage	Herr	Dal	Tolga				14.01.2019		T	abgeschlossen	04.02.2019	22.02.2019	Schunterstraße 58	38106	Braunschweig	17635277957	tolgadalbs@gmail.com																
+Eingangsbescheid	Herr	Dal	Alper						T	abgeschlossen	04.02.2019	22.02.2019	Schunterstraße 58	38106	Braunschweig	15152430294	alper.dal@web.de																
+Zusage	Herr	Eckel	Timo		07.01.2019				T	abgeschlossen	18.03.2019	05.04.2019	Jürgenstraße 4	38162	Schandelah	53065591535	m1996@web.de	Herr 	Matthias Brandt	MO MM RAD PIC 													
+Zusage	Herr	Harcken	Marcel						T	abgeschlossen	07.01.2019	29.03.2019	Schapener Straße 7	38162	Cremlingen	15731407921		Herr 	Uwe Pridöhl	MO MM MT MS1-COC TC		1739921963											
+Eingangsbescheid	Herr	Evers	Tom	31.01.2019					T	abgeschlossen	09.09.2019	28.09.2019	Im Kleinen Hope, 68	31234	Edemissen	15229649030	leTomEvers@gmail.com																
+Eingangsbescheid	Herr	Grass	Gustav-Jonat	31.01.2019					T	abgeschlossen	29.04.2019	17.05.2019	Lange Straße 14	38259	Salzgitter	1578290038	gustav-j.grass@gmx.de																
+Absage	Herr	Jordan	Tom	31.01.2019			06.02.2019		T	abgeschlossen	04.02.1029	15.02.2019	Lehmweg 9a	38126	Braunschweig	53122581258	tom.jordan@igs-heidberg.de																
+Zusage	Herr	Beckner	Ruven		07.01.2019				T	abgeschlossen	04.02.2019	22.02.2019	Heleme-Engelbrecht-Str. 117	38124	Braunschweig	5316802410	ruven.beckner@gmail.com	Frau	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Zusage	Herr	Schneider	Cedric		14.01.2019				T	abgeschlossen	25.02.2019	08.03.2019	Weideweg 2	38464	Groß Twülpstedt	1731831067	c.schneider02@protonmail.ch	Herr 	Philip Okyere	MO MM R&D CP PI E-IXL	9644	49 (173) 1831067											
+Selbstabsage	Herr	Herrmann	Nico				14.02.2019		T	abgeschlossen	08.04.2019	23.04.2019	Im Werberkamp 10	38304	Wolfenbüttel	1749276560	nico-design@t-online.de																
+Zusage	Herr	Bletz	Eric		16.01.2019				T	abgeschlossen	04.02.2019	22.02.2019	Alte Frankfurter Str. 171	38122	Braunschweig	0231/68032798	ericbletz871@gmail.com	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Frau	Dikenseli	Sophie						T	Betreuer suchen	15.07.2019	16.08.2019	Marienstraße 104	30171	Hannover	51148976814	sophie@dikenseli.de																
+Zusage	Herr	Sparkes	Jason		23.01.2019	28.01.2019			T		21.10.2019	08.11.2019	Krugplatz 3	38110	Braunschweig	53071672	jason.sparkes@lg-bs.de	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Zusage	Frau	Miriam	Garaali		31.01.2019				T	abgeschlossen	11.03.2019	15.03.2019	Lottbeker Feld 16	22359	Hamburg	4064504740	miriam.garaali@t-online.de	Frau	Christine Bode	MO MM ML	37403	1725642823											
+Zusage	Frau	Mildner	Lissa  		28.01.2019	04.02.2019			T		11.11.2019	30.11.2019	Stahlstraße 53	38226	Salzgitter	1703576864	lissamildner02@gmx.de	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Zusage	Herr	Kocer	Elias		30.01.2019				T	abgeschlossen	18.03.2019	05.04.2019	Hermann-Stehr-Str.25	38226	Salzgitter	15234025027	yasin.kocer@siemens.com	Herr 	Andreas Ernst	MO MM RAD PIC 2 1	13232a												
+Eingangsbescheid	Herr	Becker	Marco						T	Betreuer suchen			Köhlenbusch 17	38110	Braunschweig	5307940622	becker.marco1998@gmail.com																
+Eingangsbescheid	Herr	Yilmaz	Devrim						T	Betreuer suchen	10.06.2019	23.06.2019	Göztepe Mahallesi, Bent Caddesi, Kefil Sokak, NO 4/6	34820	Beykoz/Istanbul,TR	90530449758	devrimfiratyilmaz@hotmail.com																
+Zusage	Herr	Günthel	Domenic		31.01.2019				T	abgeschlossen	19.03.2019	29.03.2019	Oberwinkel 5	38325	Roklum	0170/3290067		Frau	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Eingangsbescheid	Frau	Raenko	Viktoria						T	abgeschlossen	04.02.2019	15.02.2019	Ratiborstraße 25	38124	Braunschweig	53129597093	v.raenko@web.de																
+Eingangsbescheid	Herr	Hädelt	Fynn Lukas	11.02.2019					T	abgeschlossen	25.02.2019	15.03.2019	Angerburgstraße 18	38108	Braunschweig	1774031434	fynn.lukas.haedelt@sp-gs.de																
+Zusage	Herr	Ballwanz	Tobias		11.02.2019	12.02.2019			T		21.10.2019	08.11.2019	Hennestraße 3	38102	Braunschweig	15778780235	tobias.ballwanz@wilhelm-gym.net	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+	Herr	Ällrich	Daniel						T	abgeschlossen	04.03.2019	29.03.2019	Am Bohrturm 20	31246	Ilsede	5172410272	aellrichdaniel@gmail.com																
+Eingangsbescheid	Herr	Müller	Giona Tristan	11.02.2019					T	Betreuer suchen	17.06.2019	03.07.2019	Kurze Straße 4a	38553	Wolfenbüttel	15737764657	gionatristan007@gmail.com																
+Eingangsbescheid	Herr	Perschmann	Leo						T	abgeschlossen	08.04.2019	12.04.2019	Gartenstraße 28	38176	Wendeburg	5303979540	perschmann71@web.de																
+Zusage	Herr	Scherbring	Arnick		11.02.2019	14.02.2019			T		11.11.2019	30.11.2019	Homburgstraße 16	38116	Braunschweig		arnicksch@t-online.de	Herr 	Matthias Brandt	MO MM RAD PIC 2 3		01531 226-3790											
+Absage	Herr	Hilgendorf	Lucas						T	abgeschlossen	15.08.2019	16.07.2019	Auf der Trift 4a	38304	Wolfenbüttel	53419009503	lucas@nadobnik.de																
+Absage	Herr	Bardzinski	Marek						T	abgeschlossen	11.03.2019	29.03.2019	Rudolfstr. 13	38144	Braunschweig	53125749032	marek.bardzinski@jssbs.de																
+Eingangsbescheid	Herr	Meitrodt	Niklas						T	Betreuer suchen	21.10.2019	08.11.2019	Beekkamp 3a	38179	Schwülper	1799388031	jannicklas.jnm@gmail.com																
+Eingangsbescheid	Herr	Kurpeik	Justin						T	Betreuer suchen	21.10.2019	08.11.2019	Eschenkamp 12	38530	Didderse	5373924665	justin.kurpeik@lg-bs.de																
+Zusage	Herr	Co	Niklas						T	abgeschlossen	04.02.2019	23.02.2019	Kleine Heide 84	38159	Vechelde	5302922721	niklas.co@jgs-vechelde.de	Frau	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Zusage	Frau	Nitsche	Pia		20.03.2019				T	abgeschlossen	06.05.2019	17.05.2019	Am Sportplatz 4	39365	Harbke	1590	Pia.Nitsche@web.de	Herr 	Stephan Engler	MO MM RAD OP MF-A MLP 1		13920488650											
+Zusage	Herr	Reese	Jonas		20.03.2019	25.03.2019			T		08.07.2019	12.07.2019	Dreieck 2	26605	Aurich	4941959971	jonas@reese-mail.com	Herr 	Tobias Freiherr von Bodenhausen	MO MM MT MS1-COC AI2	39221	1737336809											
+Eingangsbescheid	Herr	Behluli	Endrit	20.03.2019					T	abgeschlossen	15.04.2019	14.07.2019	Wittekindstraße 1	38114	Braunschweig	17649478618	behluli.endrit@gmx.de																
+Eingangsbescheid	Herr	Schubert	David	20.03.2019					T	Betreuer suchen	13.01.2020	31.01.2020	Am Schwarzen Berge 29b	38112	Braunschweig	53115795	david.schubert@gmx.net																
+Eingangsbescheid	Herr	Gall	Elias	20.03.2019					T	Betreuer suchen	15.07.2019	27.07.2019	Maria-Basels-Strasse 7	47906	Kempen	15732620258	eliasgall2002@gmail.com																
+Absage	Herr	Hübscher	Benjamin				20.03.2019		T	abgeschlossen	17.06.2019	28.06.2019	Charlottenring 3	38855	Wemigerode	17640788445	benjamin-huebscher@gmx.de																
+Eingangsbescheid	Herr	Savane	Muhammad Saliou	21.03.2019					T	Betreuer suchen	15.07.2019	02.08.2019	Goslarsche Str. 33	38118	Braunschweig	15217996118	muhammadsaliousavane@gmail.com																
+Zusage	Herr	Bischoff	Tom		21.03.2019	27.03.2019			T		13.01.2020	31.01.2020	Weststraße 82	38126	Braunschweig	5312624869	tombischoff126@gmail.com	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Herr	Kreit	Yannick	21.03.2019					T	Absage	21.10.2019	09.11.2019	Gartenstraße 7a	38239	Salzgitter	1758196356	yannick.kreit@iserv-gis.de																
+Eingangsbescheid	Herr	Schneider	Tom	?					T	Absage	21.10.2019	08.11.2019	Birkenweg 18	38530	Didderse	15165192770	tom.schneider2@gmx.de																
+Zusage	Herr	Brandt	Timon		08.04.2019	15.04.2019			T		26.08.2019	14.09.2019	Allensteiner Straße 21	38302	Wolfenbüttel	15788141952	timscheiltb@gmail.com	Herr 	Alexander Adamitz	MO MM RAD PIC 2 3	13209	0531226-5471											
+Zusage	Frau	Führmann	Lena		08.04.2019	17.04.2019			T		05.08.2019	09.08.2019	Tiergarten 15	38116	Braunschweig	1757841117	lmfuehrmann@gmail.com	Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531/226-2121											
+Zusage	Frau	Himstedt	Liza						K	abgeschlossen	06.05.2019	17.05.2019	Neustadt 27	39393	Hötensleben  OT Wackersleben	1749290543	felicitas2704@gmail.com	Herr 	Christopher Lausch	MO MM RAD BA 4	63709	1733739472											
+Zusage	Herr	Schwember	Luis		08.04.2019	15.04.2019			T		13.01.2020	31.01.2020	Zum Heseberg 11	38126	Braunschweig	5312084714		Herr 	Alexander Sense	MO HR GER PE NEA	37325	0531226-2121											
+Zusage	Herr	Vondeberg	Mathis		08.04.2019	15.04.2019			T		21.10.2019	08.11.2019	Ellernriede 4	38627	Meine	05304/501010	mathis.vondeberg@lg-bs.de	Herr	Alexander Sense	MO HR GER PE NEA	37325	0531226-2121											
+Eingangsbescheid	Herr	Runge	Hendrik	03.07.2019					T	Absage	21.10.2019	08.11.2019	Laubanstraße 1	38124	Braunschweig	17641372845	hendrikrunge12@gmail.com	Herr	Markus Bierkandt	MO MM R&D CP PO OS	9409	15204251648											
+Eingangsbescheid	Herr	Wallat	Luis	03.07.2019					T	Betreuer suchen	09.09.2019	27.09.2019	Bärengasse 1	38315	Hornburg	05334/948272	mana.wallat@t-online.de																
+Eingangsbescheid	Herr	Appel	Sean	03.07.2019					T	Absage	21.10.2019	09.11.2019	Dr,-Wilhelm-Höck-Ring 71	38239	Salzgitter	15232034593	sean.appel@iserv-gis.de																
+Zusage	Herr	Güldner	Marius						T	abgeschlossen	29.04.2019	29.04.2019	Erika-Kröger-Straße 23	47198	Duisburg	02066/268833	mariusder01@gmail.com	Herr	Peter Heinze	MO MM RAD 3 PM	44406	1725170846											
+Zusage	Frau	Miosga	Lilli		09.05.2019	15.05.2019			T		19.08.2019	30.08.2019	Teichgarten 5	38277	Heere	1744625958	lilli@miosga-net.de	Herr	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Zusage	Herr	Salewski	Paul		09.05.2019	15.05.2019			T		13.01.2020	31.01.2020	Am Schwarzen Berge 30	38112	Braunschweig	15138806012	paulsalewski@outlook.de	Herr	Hans Stärkert	MO HR GER PE NEA	37345	0531226-2207											
+Freiw. Praktikum	Herr	Hinzmann	Marius						T	?	22.07.2019	02.08.2019	Meerdorfer Straße 16 a	38176	Wendeburg	53035083318	Marius.Hinzmann@obs-aueschule-wendeburg.de 																
+Zusage	Frau	Asensio	Sahira Fernandez		16.05.2019	22.05.2019			T		02.12.2019	21.12.2019	Halmweg 5	31228	Peine	51718023134	s.fernandez@silberkamp.de	Herr	Lutz Michalski	MO MM RAD PL D	63309	1736067074											
+Eingangsbescheid	Herr	Wonka	Lars						T	Betreuer suchen	13.01.2020	31.01.2020	Mancinusweg 49	38304	Wolfenbüttel	5331925753	lars.wonka@outlook.com																
+Eingangsbescheid	Herr	Münch	Werner Lorenz						T	Betreuer suchen	13.01.2020	31.01.2020	Baumschulenweg 18	38104	Braunschweig	5312349344	wr.muench@gmail.com																
+Zusage	Frau	Jochim	Alicia		16.05.2019	22.05.2019			T		11.11.2019	30.11.2019	Beekswiese 66	38116	Braunschweig	15732103537	alicia.jochim2003@gmail.com	Herr	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Herr	Hesse	Arno					27.05.2019	T	Betreuer suchen	10.02.2020	29.02.2020	Birkenring 5	38120	Braunschweig		arno.hesse@bracke-igs.de																
+Eingangsbescheid	Herr	Poethkow	Nils	27.05.2019					T	Absage	21.10.2020	08.11.2020	Westerheide 16	38542	Leiferde	5373330729	nils.poethkow@gmail.com																
+Eingangsbescheid	Herr	Khan	Zargham	27.05.2019					T	Betreuer suchen	13.01.2020	31.01.2020	Salzdahlumer Straße 62	38126	Braunschweig	17630654426	zarghamkham233@gmail.com																
+Eingangsbescheid	Herr	Pielenz	Timo	27.05.2019			20.09.2019		T	Betreuer suchen	21.10.2019	09.11.2019	Am Kräutergarten 9	38302	Wolfenbüttel	5331978973	timo.pielenz@iserv-gis.de																
+Unterlagen unvollständing	Herr	Schulte	Till					12.06.2019	T	warten auf Zeugnis	13.01.2020	31.01.2020	Henriette-Breymann-Straße 14	38124	Braunschweig	17634509804	till.schulte@gmx.net																
+Unterlagen unvollständing	Herr	Baklawa	Hassan					12.06.2019	T	warten auf Zeugnis	08.07.2019	02.08.2019	Beethovenstraße 58	38106	Braunschweig	17652478625	derprinzhassan@gmail.com																
+Zusage	Herr	Czirr	Clemens		03.07.2019				T		11.11.2019	30.11.2019	Klever Bleeke 8	38112	Braunschweig		clemens.czirr@gmail.com	Herr	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Zusage	Herr	Rückert	Leon Uwe		03.07.2019				T		21.10.2019	19.11.2019	Kastanienallee 4a	38533	Vordorf	53045859	leon.uwe.rueckert@lg-bs.de	Herr	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Herr	Bischoff	Tom	03.07.2019					T	Betreuer suchen	13.01.2020	31.01.2020	Weststraße 82	38126	Braunschweig	5312624869	tombischoff126@gmail.com																
+Eingangsbescheid	Frau	Giese	Melina Renee	03.07.2019					K	Betreuer suchen	07.01.2020	24.01.2020	Weststraße38	38126	Braunschweig	1781485858	melina.giese@ohanaonline.de																
+Zusage	Herr	Franz	Kilian		03.07.2019				T		13.01.2020	31.01.2020	Waterloostr. 14	38106	Braunschweig	5312338413	kilian.franz@gmx.net	Herr	Timo Franz	MO MM BE PME 3	43314	1724604054											
+Eingangsbescheid	Herr	Daaboul	Hilal	03.07.2019					T	Betreuer suchen	11. Jul	26. Jul	Siegfriedstraße 22	38106	Braunschweig	1797541452	yaserdaaboul@hotmail.com																
+Eingangsbescheid	Herr	Maretzki	Reik	03.07.2019					T	Betreuer suchen	16.09.2019	27.09.2019	Böckelserstraße 4	38539	Müden/Flettmar	+49 176 21661056	reik.maretzki@hg-gf.de																
+Eingangsbescheid	Frau	Emcke	Celine	03.07.2019					K	Betreuer suchen	21.10.2019	01.11.2019	Ohreweg 32	38527	Meine	5304907556	celine.emcke@online.de																
+Eingangsbescheid	Herr	Kreit	Yannick	03.07.2019					T	Absage	21.10.2019	09.11.2019	Gartenstraße 7a	38239	Salzgitter	1758196256	yannick.kreit@iserv-gis.de																
+Zusage	Herr	Thormähler	Christoph 	03.07.2019					T	?	21.10.2019	08.11.2019	Rathsholz 6a	38110	Braunschweig	530791053	christoph.thorm@outlook.de																
+Zusage	Herr 	Seydak	Nils	x	19.08.2019				T	x	21.10.2019	08.11.2019	Im Winterfeld 8	38304	Wolfenbüttel	05331/ 969996		Herr	Pascal Hoppe	MO MM RAD PEC 7		0531/226-4244											
+Zusage	Herr	Keunecke	Alexander	x	19.08.2019	27.08.2019			T	x	07.01.2020	24.01.2020	Jahnstraße 2	38364	Schöningen	05352/58215	alexander220902@gmail.com	Herr 	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Zusage	Frau	Ebermann	Lea Marie	x	20.08.2019				T	x	02.12.2019	21.12.2019	Eulenring 41	31224	Peine	05171/929807	lea.ebermann@silberkamp.de	Herr 	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Zusage	Herr	Hirt 	Henry	x	20.08.2019				T	x	11.11.2019	30.11.2019	Rübenweg 27	38527	Meine	0160/98203836	hirt.henry@gmail.com	Herr	Marvin Kortegast	MO MM RADOP MF-EMET	12398	0173/7215335											
+Zusage	Frau	Rücker	Manja	x	20.08.2019				T	x	26.08.2019	30.08.2019	Lahnstraße 1	38120	Braunschweig			Herr 	Alexander Sense	MO MM GER PE NEA	37325	0531/226-2121											
+Eingangsbescheid	Herr	Böttger	Marius	20.08.2019			30.09.2019		T	Betreuer suchen	?	?	Löderburgerstraße 14	39116	Magdeburg	17622562484	mariusgsg16@gmail.com																
+Zusage	Herr	Heyland	Sandro		27.08.2019			Für Irxleben	T	x	16.09.2019	27.09.2019	Am Schnarsleber Weg 13	39167	Irxleben	 0176 56934964	Sandro.heyland@gmail.com	Herr	Stephan Engler	MO MM RAD OP MF-A MLP1		039204 / 886-57											
+Absage	Herr	Daaboul	Hilal				27.08.2019		T	Betreuer suchen																							
+Eingangsbescheid	Herr	Schulz	David	27.08.2019					K	Betreuer suchen	10.02.2020	21.02.2020	Am Bahndam 7a	38531	Rötgesbüttel																		
+Eingangsbescheid	Herr	Kreiter	Pharell	27.08.2019					T	Betreuer suchen	Absage	21.12.2019	Köslinstraße 2	38124	Braunschweig	0163/3000967	pharellk04@gmail.com																
+Zusage	Herr 	Kaiser	Robin		03.09.2019	05.09.2019			K	x	21.10.2019	09.11.2019	Vor den Gärten 26	38302	Wolfenbüttel	05331/ 64979	robin.kaiser@iserv-gis.de	Frau	Carolin Baier	MO MM ML		0172/2584613											
+Eingangsbescheid	Herr	Ceylan	Serkan					03.09.2019	?	x	11.11.2019	30.11.2019	Wollmarkt 1	38100	Braunschweig	0157/ 80611320	serkanceylan3107@gmail.com																
+Eingangsbescheid	Herr	Bautz	Yannick	04.09.2019					T	x	07.01.2020	24.01.2020	Steinhorstwiese 14	38108	Braunschweig	0531/ 82794	yannick.bautz@rhs-bs.de																
+Zusage	Herr	Bachran	Max-Ernst	04.09.2019	05.09.2019				T	x	21.10.2019	09.11.2019	Friedhofsweg 10	38373	Süpplingen	0152/ 034 217 72	max.bachran@t-online.de	Herr	Michael Wilke	MO HR GER PE NEA		01522 9424565											
+Eingangsbescheid	Frau	Kopp	Nadja	05.09.2019					T	x	Absage	15.11.2019	Oberger Weg 1	38268	Lengede																		
+Eingangsbescheid	Herr	Perschmann	Leo	05.09.2019					T	x			Gartenstraße 28	38179	Neubrück	0170/ 7754168																	
+Eingangsbescheid	Herr	Schulz	Henry	05.09.2019					T		02.03.2020	20.03.2020	Klevergarten 6	38104	Braunschweig	0160/ 4302470	henri.scooter@gmail.com																
+Eingangsbescheid	Herr	Heinze	Jim	05.09.2019					K	x	13.09.2019	1. Jahr	Schmiedeweg 2	38126	Braunschweig	0176/ 40781072	JimHeinzeNr1@gmail.com																
+Zusage	Herr	Libey	Melih		05.09.2019				T		02.03.2020	20.03.2020	Salzdahlumer Straße 61	38126	Braunschweig	0531/ 25757010		Frau	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Zusage	Herr	Kashef-Al Ghetaa	Hussein		05.09.2019				T	abgeschlossen	02.12.2019	20.12.2019	Erikastraße 48	38259	Salzgitter-Bad			Frau	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Zusage	Herr	Bauer	Sascha Samuel		05.09.2019				T		10.02.2020	29.02.2020	Emsstraße 51	38120	Braunschweig		sasamuelbauer@gmail.com	Frau	Elke Fricke	MO MM RAD OP MF-A		0531/2266393											
+Eingangsbescheid	Herr	Lachmann	Marvin Julian	12.09.2019			27.09.2019		T	x	30.09.2019	25.10.2019	Gassnerstraße 13	38116	Braunschweig	0531/48287769	marvin.lachmann01@gmail.com																
+Eingangsbescheid	Herr	Al Ghussein	Mahmood	12.09.2019					T	x	13.01.2020	31.01.2020	Gabelsbergerstr. 23	38118	Braunschweig		m.teach.is@gmail.com (Erziehungsberechtigter)																
+Eingangsbescheid	Frau	Al Ghussein	Sariya	12.09.2019					T	Absage	07.10.2019	18.10.2019	Gabelsbergerstr. 23	38118	Braunschweig		m.teach.is@gmail.com (Erziehungsberechtigter)																
+Eingangsbescheid	Herr 	Yazici	Süleyman	12.09.2019			27.09.2019		T		21.10.2019	09.11.2019	Frankfurter Str. 118	38239	Salzgitter	05341/2257584	sueleyman.yazici2@gmail.com																
+Eingangsbescheid	Herr 	Gropius	Tim	12.09.2019					T	x	03.02.2020	28.02.2020	Hopfengarten 1a	38102	Braunschweig	0531/75670	timgropius@gmx.de																
+Eingangsbestätigung	Herr	Strohmann	Maximo	12.09.2019			27.09.2018		T	x	28.10.2019	08.11.2019	Hauptstraße 12	38528	Adenbüttel	05304 931793	maximo@strohmann.net																
+Eingangsbestätigung	Herr	Ande	Niklas	12.09.2019					T	x	13.01.2020	31.01.2020	Steinberganger 28	38122	Braunschweig	49 1606890930	niklas.ande@t-online.de																
+Eingangsbestätigung	Herr	Winter	Henri	12.09.2019					T	x	07.01.2020	24.01.2020	Scharenbusch 47	38104	Braunschweig	49 17697884776	grosse.sascha@gmx.de																
+Eingangsbestätigung	Frau	Gibbons	Lynn Elizabeth	12.09.2019					T	x	13.01.2020	31.01.2020	Am Apfelgarten 12	38124	Braunschweig	49 1775985047 (Mutter)	lynn.gibbons@icloud.com																
+Eingangsbestätigung	Herr	Speh	Bennet	12.09.2019					T	x	13.01.2020	31.01.2020	Vor den Fichten 12	38259	Salzgitter	49 15758224419	bennet@seph.net																
+Eingangsbestätigung	Herr	Schneidewind	Ben	12.09.2019					T	x	10.02.2020	14.02.2020	Gustav-Harms-Str. 31 	38122	Braunschweig	0531 - 7072918	c.schneidewind@web.de																
+Eingangsbestätigung	Herr 	Klingert	Philipp	12.09.2019					T	x	02.12.2019	21.12.2019	Im Grashof 21	31224	Peine	05171-580077	p.klingert@silberkamp.de																
+Eingangsbestätigung	Herr	Hamesse	Juelf Laurent	12.09.2019					T	x	07.01.2020	24.01.2020	Brunhildenstr. 25	38112	Braunschweig	0531-29580133	hamesse@freenet.de																
+Zusage	Frau	Brosig	Aileen	12.09.2019	19.09.2019				T	x	10.02.2020	22.02.2020	Mommsenstraße 9	30173	Hannover	0175 6204423	aileen.eli@gmx.de	Frau	Madlen Linge	MO MM R&D BA	DE/BWG A 22/-/37 803	49 (531) 226-6519											
+Zusage	Herr	Selzer	Mickey	12.09.2019	19.09.2019		27.09.2019		T	x	11.11.2019	29.11.2019	Thedinghausenstrasse 25	38116	Braunschweig	0531-80110965	mickey.selzer@googlemail.com	Herr	Axel Zötzsche	MO MM MT MS1-COC TC		49 (173) 2384295  											
+Absage	Herr	Massek	Julian	12.09.2019			19.09.2019		T	x	13.01.2020	31.01.2020	Im Weberkamp 3	38304	Wolfenbüttel	0151 56325310	julianmassek@gmail.com																
+Eingangsbestätigung	Frau	Peeters	Ellen	12.09.2019					T	x	13.01.2020	31.01.2020	Am Apfelgarten 28	38124	Braunschweig	0176-36335278	ellen.marie.peeters@gmail.com																
+Eingangsbestätigung	Herr	Satkunathevan	Lakshan	12.09.2019					T	x	03.02.2020	28.02.2020	Okerstraße 69	38179	Schwülper	0174-9583910	lakshan.satkunathevan@outlook.com																
+Eingangsbestätigung	Herr	Zelinski	Julian	12.09.2019					T	x	13.01.2020	31.01.2020	Dorfstr. 19 b	38114	 Braunschweig	0531 6180124 / 0151 401 281 88	julian.zelinski@raabeschule.net																
+Eingangsbestätigung	Herr	Winkler	David	12.09.2019					T	x	10.02.2020	29.02.2020	Isarstrasse 4	38120	 Braunschweig		david.winkler@bracke-igs.de																
+Eingangsbestätigung	Frau	Gürel	Ceren	13.09.2019					T	x	10.02.2020	28.02.2020	Ackerstraße 22	38126	Braunschweig	0157 54944652	cerenswelt@gmail.com																
+Absage	Frau	Rühe	Nikola	13.09.2019	19.09.2019				T	x	13.01.2020	31.01.2020	Lüderoder Str. 2	38315	Gielde	05339/9478	nikola.ruehe@thg.versus-wf.de																
+Zusage	Frau	Murawiecki	Martin		17.09.2019				T	x	10.02.2020	29.02.2020	Emsstraße 39	38120	Braunschweig	49 88930622	murawieckimartin@gmail.com	Frau	Elke Fricke	MO MM RAD OP MF- A		0531 12266393											
+Zusage	Frau	Vergin 	Fin		17.09.2019				T	x	21.10.2020	08.11.2020	Martin-Luther Str. 47	38315	Schladen	05335/90841	fin.vergin@gmail.com	Herr	Stephan Barke	MO MM R&D OCS CSDB		49 172 6136839											
+Zusage	Frau	Phung	Wenig - Kin		17.09.2019				T	x	07.01.2020	24.01.2020	Siegfriedstraße 82	38106	Braunschweig	0531/2342682	Wengkin.phung@gmail.com	Herr	Alexander Hartung	MO MM MT MS1-COC ATC1		  49 (173) 6120504											
+Zusage	Herr	Haver	Jan - Niklas		19.09.2019				T	x	07.10.2019	18.10.2019	Hermann-Korb-Str 1	38302	Wolfenbüttel	05331/7034417	haverjn@gmail.com	Herr	Andreas Ernst 7.10 - 11.10 Axel Zötzsche 14.10 - 18.10	MO MM RAD PIC 2 1           MO MM MT MS1-COC TC		  49 (172) 8856265               49 (173) 2384295  											
+Zusage	Frau	Peter	Mara		19.09.2019				T	x	02.12.2019	20.12.2019	Flöther Weg 10	38259	Salzgitter - Ohlendorf	 + 49 1514 6738329	monepeter66@googlemail.com	Herr	Alex Sense	MO HR GER PE NEA		49 (531) 226-2121											
+Eingangsbescheid	Herr	Foos	Michael	19.09.2019					K	x	10.02.2020	29.02.2020	Eiderstraße 11	38120	Braunschweig	0 17634728293																	
+Eingangsbescheid	Herr	Klemmt	Laurin	19.09.2019			02.10.2019		T	hat in der Mail vom 01.10. selbst abgesagt 	10.02.2020	28.02.2020	Van-Gogh-Weg 5	38228	Salzgitter	05341/59010	laurin.klemmt@gymfred.de																
+Eingangsbescheid	Herr	Nosatsch	Daniel	19.09.2019					T	x	13.01.2020	31.01.2020	Karlstraße 19	31241	Groß Ilsede	0 173 8163987	d.nosa@web.de																
+Zusage 	Frau	Keln	Karina		19.09.2019				T	x	02.12.2019	21.12.2019	Woltorfer Straße 5a	31224	Peine	0 5171/ 5067535	karina.keln.kiki@gmail.com	Frau 	Elke Fricke	MO MM RAD OP MF-A		49 (531) 226-6393											
+Zusage 	Herr	Özkan	Taylan-Özgür		19.09.2019				T	x	02.12.2019	21.12.2019	Eichendorffstraße 5a	31224	Peine	0 5171/ 506858	kan@gmail.com	Frau	Elke Fricke	MO MM RAD OP MF- A		49 (531) 226-6393											
+Zusage	Herr	Schulze	Tobias		19.09.2019				T	x	14.10.2019	18.10.2019	Vogtlandweg 34	38440	Wolfsburg	0 1520/3873410	tobiasschulze539@gmail.com	Herr	Axel Zötzsche	MO MM MT MS1-COC TC		49 (173) 2384295											
+Eingangsbescheid	Herr	Hong	Thien An Isaak	19.09.2019					T	x	10.02.2020	22.02.2020	Ricklinger Stadtweg 73	30459	Hannover	0176/43567649	isaak.houng@gmx.de																
+Zusage	Frau	Akkurt	Seda		19.09.2019				T		07.10.2020	18.10.2020	Berliner Straße 66	38226	Salzgitter																		
+Eingangsbescheid	Herr	Schoeppe	Bruno	20.09.2019					T	x	10.02.2020	29.02.2020	Trift 6	38159	Bettmar	0 15110019336	bruno.schoeppe@jsg-vechelde.de																
+Eingangsbewscheid 	Herr	Weißer	Nils	20.09.2019					T	Absage	07.01.2020	24.01.2020	Grüner Ring 39	38108	Braunschweig	0531/4739660	nils.weisser@rhs-bs.de																
+Eingangsbescheid	Herr	Haberland	Tobias	30.09.2019					T	x	10.02.2020	28.02.2020	Dornenbusch 39	38120	Braunschweig		haberland5.ph@gmail.com																
+Eingangsbescheid	Herr	Kreuzer	Julian	30.09.2019					T	x	10.02.2020	28.02.2020	Riekestraße 18	38108	Braunschweig	?????0176 83706721	j.kreuzer.bs@gmx.de																
+Eingangsbescheid	Frau 	Kotula	Luca	30.09.2019					T	x	10.02.2020	28.02.2020	Broitzemer Steinberg 23A	38122	Braunschweig	0 15739285153	Luca.Kotula@gmail.com																
+Zusage	Frau	Keric	Aila		02.10.2019				T	x	10.02.2019	28.02.2019	Schubertstraße 26	38226	Salzgitter	05241 1889187	ajlaker@gmail.com	Frau 	Klähr / Herr Eilf/ Frau Eckhardt														
+Absage	Herr	Yasar	Sedat				02.10.2019		T	x	28.10.2019	08.11.2019	Heisterkamp 2a	38518	Gifhorn																		
+Eingangsbescheid	Frau	Zöllner 	Yara	02.10.2019					T	x	13.01.2020	31.01.2020	Im Winkel 4	38162	Cremlingen	05306/931573																	
+Absage	Herr	Beuge	Hannes				02.10.2019		T	x	05.02.2020	28.02.2020	Hauptstr. 5a	38162	Cremlingen	05306 2211																	
