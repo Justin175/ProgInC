@@ -28,7 +28,7 @@ Wort* einlesen(char* dateiname, unsigned long* sizeofWortPtr) {
 
 
 
-    while (zeichen = fgetc(file) != EOF) {
+    while ((zeichen = fgetc(file)) != EOF) {
         // Semikolon eingelesen -> neues Wort beginnt
         if (zeichen == ';')
         {

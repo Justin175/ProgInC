@@ -1,9 +1,0 @@
-.vs
-Debug
-Release
-Prog in C.sln
-Prog in C/Debug
-Prog in C/Release
-Prog in C/Debug.vcxproj
-Prog in C/Debug.vcxproj.filters
-Prog in C/Debug.vcxproj.users
