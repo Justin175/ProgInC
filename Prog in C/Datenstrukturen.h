@@ -1,11 +1,13 @@
 #pragma once
+
+#define _CRT_SECURE_NO_WARNINGS
+#define MAX_WORD_LENGTH 500
+
 #include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
 
 FILE* ausgabeDatei;
-
-#define MAX_WORD_LENGTH 500
 
 typedef struct Wort {
 	char wort[MAX_WORD_LENGTH + 1];

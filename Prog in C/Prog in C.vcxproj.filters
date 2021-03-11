@@ -51,4 +51,7 @@
       <Filter>Quelldateien\Dateianalyse</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt" />
+  </ItemGroup>
 </Project>

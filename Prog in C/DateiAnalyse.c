@@ -2,7 +2,6 @@
 //Erstellt	am 04.03.2021
 //			von Justin Treulieb
 
-#define _CRT_SECURE_NO_WARNINGS
 #include "Datenstrukturen.h"
 
 #define MAX_PATH_LENGTH 500
@@ -13,9 +12,9 @@
 #define OPTION_BEENDEN 4
 
 #define IS_NULL(x) ((x) == NULL)
-#define PRINT_IF_NULL_ERROR(x) if(IS_NULL(x)) \
+#define PRINT_IF_NULL_ERROR(x, error_msg_str) if(IS_NULL(x)) \
 {\
-	fprintf(stderr, "Ein Fehler beim sortieren ist aufgetreten.\n -> Kein Speicherplatz mehr vorhanden.\n");\
+	fprintf(stderr, "Ein Fehler beim %s ist aufgetreten.\n -> Kein Speicherplatz mehr vorhanden.\n", error_msg_str);\
 	break;\
 }
 
@@ -29,6 +28,9 @@ int readOption() {
 
 	int input = _getche();
 	int option = -1;
+
+	//Zeilenumbruch nach Eingabe ausgeben
+	printf("\n");
 
 	//convert input
 	switch (input)
@@ -87,6 +89,10 @@ int main() {
 		//datei verarbeiten
 		ausgabeDatei = fopen(path, "a"); //Mode Appends  -> Schreibe etwas ans ende der Datei
 
+		if (ausgabeDatei == NULL) { //Datei existiert nicht, datei mit anderem Mode öffnen
+			ausgabeDatei = fopen(path, "w");
+		}
+
 		//wörter überprüen
 		if (ausgabeDatei == NULL) {
 			fprintf(stderr, "[FEHLER] Die Datei konnte nicht geoeffnet werden.\n");
@@ -100,11 +106,12 @@ int main() {
 	//Schleifen Variablen
 	unsigned long neueWoerterLaenge;
 	Wort* neueWoerter = NULL;
-	int isSearchingForString = 0;
+	int doOutput = 0;
+	static char* error_msg[] = { "analysieren", "sortieren", "suchen" };
 
 	while (option != OPTION_BEENDEN) {
 		neueWoerterLaenge = 0;
-		isSearchingForString = 0;
+		doOutput = 0;
 
 		switch (option)
 		{
@@ -113,7 +120,7 @@ int main() {
 			break;
 		}
 		case OPTION_SUCHEN: {
-			isSearchingForString = 1;
+			doOutput = 1;
 			fflush(stdin); //Puffer löschen
 
 			printf("Geben Sie das Wort an, nach dem gesucht werden soll (maximal %d Zeichen werden gelesen): ", MAX_PATH_LENGTH);
@@ -124,6 +131,7 @@ int main() {
 			gets_s(suchenStr, MAX_PATH_LENGTH);
 
 			//Suche nach dem Wort
+			printf("Suche nach dem Wort '%s'.\n", suchenStr);
 			Wort* wort = suchen(woerter, anzahlWoerter, suchenStr);
 
 			//ausgeben des Worts
@@ -133,9 +141,10 @@ int main() {
 		case OPTION_SORTIEREN: {
 			int error = 0;
 			Wort* neueWoerterAnalysed = gesamtAnalyse(woerter, anzahlWoerter, &neueWoerterLaenge);
-			PRINT_IF_NULL_ERROR(neueWoerterAnalysed)
+			PRINT_IF_NULL_ERROR(neueWoerterAnalysed, "sortieren")
 			else {
 				error = 1; 
+				doOutput = 1;
 				break;
 			}
 
@@ -147,16 +156,18 @@ int main() {
 			break;
 		}
 		default:
+			doOutput = 1;
 			break;
 		}
 
-		if (!isSearchingForString) {
-			PRINT_IF_NULL_ERROR(neueWoerter)
+		if (!doOutput) {
+			PRINT_IF_NULL_ERROR(neueWoerter, error_msg[option - 1])
 			else {
 				ausgabe(neueWoerter, neueWoerterLaenge);
 				free(neueWoerter);
 			}
 		}
+
 		option = readOption();
 	}
 
