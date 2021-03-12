@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ausgabe.c" />
     <ClCompile Include="DateiAnalyse.c" />
     <ClCompile Include="Einlesen.c" />
     <ClCompile Include="Ersetze.c" />

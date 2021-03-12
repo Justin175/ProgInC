@@ -45,6 +45,9 @@
     <ClCompile Include="Einlesen.c">
       <Filter>Quelldateien\Dateianalyse</Filter>
     </ClCompile>
+    <ClCompile Include="Ausgabe.c">
+      <Filter>Quelldateien\Dateianalyse</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Datenstrukturen.h">

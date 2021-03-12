@@ -13,9 +13,10 @@ FILE* ausgabeDatei;
 
 typedef struct Wort {
 	char wort[MAX_WORD_LENGTH + 1];
-	char laengeWort;
+	int laengeWort;
 
 	unsigned long anzahl;
+	//Wort* next;
 } Wort;
 
 //NULL -> Datei existiert nicht

@@ -26,7 +26,7 @@ int readOption() {
 	printf("   %d: Program beenden\n", OPTION_BEENDEN);
 	printf("Ihre Wahl: ");
 
-	int input = _getche();
+	char input = _getche();
 	int option = -1;
 
 	//Zeilenumbruch nach Eingabe ausgeben
@@ -75,6 +75,12 @@ int main() {
 		}
 	}
 
+	printf("Die Datei enthaelt %lu Woerter.\n", anzahlWoerter);
+	//Ausgabe wäörter
+	for (unsigned long i = 0; i < anzahlWoerter; i++) {
+		printf("%lu: '%s'\n", i, woerter[i].wort);
+	}
+
 	//Eingabe Datei Output
 	printf("\n\nGeben Sie den Namen der Ausgabe-Datei an (maximal %d Zeichen werden gelesen):\n", MAX_PATH_LENGTH);
 	//eingabedatei lesen und verarbeiten
@@ -111,7 +117,7 @@ int main() {
 
 	while (option != OPTION_BEENDEN) {
 		neueWoerterLaenge = 0;
-		doOutput = 0;
+		doOutput = 1;
 
 		switch (option)
 		{
@@ -120,7 +126,7 @@ int main() {
 			break;
 		}
 		case OPTION_SUCHEN: {
-			doOutput = 1;
+			doOutput = 0;
 			fflush(stdin); //Puffer löschen
 
 			printf("Geben Sie das Wort an, nach dem gesucht werden soll (maximal %d Zeichen werden gelesen): ", MAX_PATH_LENGTH);
@@ -134,33 +140,33 @@ int main() {
 			printf("Suche nach dem Wort '%s'.\n", suchenStr);
 			Wort* wort = suchen(woerter, anzahlWoerter, suchenStr);
 
+			printf("'%s': L=%d V=%d", wort->wort, wort->laengeWort, wort->anzahl);
+
 			//ausgeben des Worts
 			ausgabe(wort, 1);
 			break;
 		}
 		case OPTION_SORTIEREN: {
-			int error = 0;
+			int error = 0;/*
 			Wort* neueWoerterAnalysed = gesamtAnalyse(woerter, anzahlWoerter, &neueWoerterLaenge);
 			PRINT_IF_NULL_ERROR(neueWoerterAnalysed, "sortieren")
 			else {
 				error = 1; 
 				doOutput = 1;
 				break;
-			}
+			}*/
 
-			if (!error) {
-				neueWoerter = sortieren(neueWoerterAnalysed, neueWoerterLaenge);
-				free(neueWoerterAnalysed);
-			}
-
+			
+			neueWoerter = sortieren(woerter, anzahlWoerter);
+			neueWoerterLaenge = anzahlWoerter;
 			break;
 		}
 		default:
-			doOutput = 1;
+			doOutput = 0;
 			break;
 		}
 
-		if (!doOutput) {
+		if (doOutput) {
 			PRINT_IF_NULL_ERROR(neueWoerter, error_msg[option - 1])
 			else {
 				ausgabe(neueWoerter, neueWoerterLaenge);
