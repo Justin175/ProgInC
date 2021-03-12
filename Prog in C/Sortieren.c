@@ -1,11 +1,18 @@
 #include "Datenstrukturen.h"
 
+#ifdef ISO_C
+#define STRLWR(x) _strlwr((x))
+#else
+#define STRLWR(x) strlwr((x))
+#endif // C_ISO
+
+
 int vergleicheWort(const void* w1, const void* w2)
 {
     Wort wort1 = *(Wort*) w1;
     Wort wort2 = *(Wort*) w2;
 
-    return strcmp(wort1.wort, wort2.wort);
+    return strcmp(STRLWR(wort1.wort), STRLWR(wort2.wort));
 }
 
 Wort* sortieren(Wort* woerter, unsigned long anzahlWoerter)
