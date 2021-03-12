@@ -20,9 +20,8 @@ struct Wort* suchen(Wort* woerter, unsigned long anzahlWoerter, char* wort) {
     }
     // Lineare Suche nach dem Wort
     for (i = 0; i < anzahlWoerter; i++) {
-        woerter += i;
-        if (!strcmp(woerter->wort, wort)) {
-            gefunden = &woerter;
+        if (!strcmp((woerter + i)->wort, wort)) {
+            gefunden = (woerter + i);
         }
     }
     return gefunden;
